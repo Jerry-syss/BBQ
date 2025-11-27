@@ -1,0 +1,28 @@
+h1
+{
+    text-align:center;
+    color: orangered;
+}
+body
+{
+    background-color:black;
+}
+h2
+{
+    color:skyblue;
+}
+h3
+{
+    color:aliceblue;
+}
+a
+{
+    color:orangered;
+    text-decoration:none;
+}
+footer
+{
+    text-align:center;
+    color:white;
+    opacity:0.5;
+}
