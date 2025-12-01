@@ -34,3 +34,13 @@ footer
 {
     color:orangered;
 }
+#nametext
+{
+    font-size: 4vh;
+    border:none;
+    outline:none;
+    height:1cm;
+    background-color:black;
+    width:35cm;
+    color:skyblue;
+}
